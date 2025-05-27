@@ -1,3 +1,7 @@
+<p align="center">
+<img src="img/banner.jpg" alt="decorative banner" width="1200"/>
+</p>
+
 # Memory and agentic RAG with Azure AI Search | DEM529
 
 ## Description
@@ -14,7 +18,7 @@ Ben Tezcan - Principal Program Manager
 |:-------------------|:----------------------------------|:-------------------|
 | Build session page | https://build.microsoft.com/sessions/DEM529 | Event session page with downloadable recording, slides, resources, and speaker bio |
 | Session recording on YouTube | https://aka.ms/build2025/video/DEM529 | YouTube page with session recoding and speaker-moderated chat |
-|Microsoft Learn|aka.ms/build25/plans/friendlyname<br>aka.ms/build25/collection/friendlyname|Official Collection or Plan with skilling resources to learn at your own pace|
+|Microsoft Learn|https://aka.ms/build25/plan/CreateAgenticAISolutions|Official Collection or Plan with skilling resources to learn at your own pace|
 
 
 ## Contributing
